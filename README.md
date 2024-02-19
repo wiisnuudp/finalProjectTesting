@@ -8,7 +8,7 @@ website for testing https://fitbybeat.com/
 ```bash
 git clone https://github.com/wiisnuudp/finalProjectTesting/
 
-# Opening Cypress
+# clone
 ```bash
 yarn run cypress open
-```
+
