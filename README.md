@@ -4,11 +4,7 @@ website for testing https://fitbybeat.com/
   2. Verify Login
   3. Contact Us
 
-# clone
+## clone
 ```bash
 git clone https://github.com/wiisnuudp/finalProjectTesting/
-
-# clone
-```bash
-yarn run cypress open
 
